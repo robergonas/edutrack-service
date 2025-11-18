@@ -1,0 +1,17 @@
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Persistence.deps.json
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Persistence.runtimeconfig.json
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Persistence.dll
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Persistence.pdb
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Domain.dll
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\bin\Debug\net8.0\EduTrack.Domain.pdb
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.csproj.AssemblyReference.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.AssemblyInfoInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.AssemblyInfo.cs
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.7721BB5A.Up2Date
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.dll
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\refint\EduTrack.Persistence.dll
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.pdb
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.genruntimeconfig.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\ref\EduTrack.Persistence.dll

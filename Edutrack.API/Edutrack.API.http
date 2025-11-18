@@ -1,0 +1,6 @@
+@Edutrack.API_HostAddress = http://localhost:5263
+
+GET {{Edutrack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
