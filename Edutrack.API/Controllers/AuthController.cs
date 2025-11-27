@@ -35,6 +35,13 @@ public class AuthController : ControllerBase
         return Ok(new { message = "Sesión cerrada correctamente." });
     }
 
+    [HttpPost("change-password")]
+    public async Task<IActionResult> ChangePassword([FromBody] ChangePasswordCommand command)
+    {
+        await _mediator.Send(command);
+        return Ok(new { message = "Contraseña cambiada correctamente." });
+    }
+
     //[HttpGet("permissions/{userId}")]
     //public async Task<IActionResult> GetPermissions(int userId)
     //{

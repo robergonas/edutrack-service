@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace EduTrack.Domain.Entities
 {
     public class Employees
@@ -17,6 +12,8 @@ namespace EduTrack.Domain.Entities
         public DateTime CreatedAt { get; set; }
         public string? CreatedBy { get; set; }
         public DateTime? ModifiedAt { get; set; }
-        public string? ModifiedBy { get; set; }        
+        public string? ModifiedBy { get; set; }
+        public Department Department { get; set; }
+        public Position Position { get; set; }
     }
 }

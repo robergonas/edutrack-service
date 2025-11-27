@@ -1,10 +1,11 @@
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.deps.json
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.dll
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.pdb
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.AssemblyInfoInputs.cache
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.AssemblyInfo.cs
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.csproj.CoreCompileInputs.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.deps.json
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.dll
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\bin\Debug\net8.0\EduTrack.Domain.pdb
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.sourcelink.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\refint\EduTrack.Domain.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Domain\obj\Debug\net8.0\EduTrack.Domain.pdb

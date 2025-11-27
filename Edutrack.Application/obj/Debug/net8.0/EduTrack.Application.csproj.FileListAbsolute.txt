@@ -1,3 +1,9 @@
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.csproj.AssemblyReference.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.AssemblyInfoInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.AssemblyInfo.cs
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.sourcelink.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Application.deps.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Application.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Application.pdb
@@ -5,11 +11,6 @@ C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Persistence.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Domain.pdb
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\bin\Debug\net8.0\EduTrack.Persistence.pdb
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.csproj.AssemblyReference.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.AssemblyInfoInputs.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.AssemblyInfo.cs
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.csproj.CoreCompileInputs.cache
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.49EFA750.Up2Date
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\EduTrack.Application.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.Application\obj\Debug\net8.0\refint\EduTrack.Application.dll

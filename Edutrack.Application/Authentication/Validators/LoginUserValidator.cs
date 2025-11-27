@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using EduTrack.Application.Authentication.Commands;
+using FluentValidation;
 
 public class LoginUserValidator : AbstractValidator<LoginUserCommand>
 {

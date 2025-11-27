@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using EduTrack.Domain.Interfaces;
 using EduTrack.Domain.Entities;
 using EduTrack.Domain.Models.Views;
+using EduTrack.Application.Authentication.Commands;
 public class LoginUserHandler : IRequestHandler<LoginUserCommand, AuthResponseDto>
 {
     private readonly EduTrackDbContext _context;

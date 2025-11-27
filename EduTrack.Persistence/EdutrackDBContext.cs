@@ -20,8 +20,9 @@ public class EduTrackDbContext : DbContext
     public DbSet<UserRoles> UserRoles { get; set; }
     public DbSet<Permissions> Persmissions { get; set; }
     public DbSet<UserEffectivePermission> UserEffectivePermissions { get; set; }
-
-
+    public DbSet<Teacher> Teachers{ get; set; }
+    public DbSet<Department> Departments { get; set; }
+    public DbSet<Position> Positions { get; set; }
     // Add other entities as needed (e.g., Employee, Department, Position)
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -35,6 +36,8 @@ public class EduTrackDbContext : DbContext
         modelBuilder.ApplyConfiguration(new UserRolesConfiguration());
         modelBuilder.ApplyConfiguration(new PermissionsConfiguration());
         modelBuilder.ApplyConfiguration(new RolePermissionsConfiguration());
+        modelBuilder.ApplyConfiguration(new DepartmentsConfiguration());
+        modelBuilder.ApplyConfiguration(new PositionsConfiguration());
 
         base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<UserEffectivePermission>()

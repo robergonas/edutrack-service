@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\handlers\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\handlers\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\handlers\\listavailableemployeeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\handlers\\listavailableemployeeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\handlers\\teacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\handlers\\teacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|solutionrelative:edutrack.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A7BE19-75F9-4639-A93D-E2BDA51264D5}|EduTrack.Persistence\\EduTrack.Persistence.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.persistence\\edutrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A7BE19-75F9-4639-A93D-E2BDA51264D5}|EduTrack.Persistence\\EduTrack.Persistence.csproj|solutionrelative:edutrack.persistence\\edutrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|solutionrelative:edutrack.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A7BE19-75F9-4639-A93D-E2BDA51264D5}|EduTrack.Persistence\\EduTrack.Persistence.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A7BE19-75F9-4639-A93D-E2BDA51264D5}|EduTrack.Persistence\\EduTrack.Persistence.csproj|solutionrelative:edutrack.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|solutionrelative:edutrack.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.domain\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|solutionrelative:edutrack.domain\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\dtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\dtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.domain\\models\\views\\usereffectivepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|solutionrelative:edutrack.domain\\models\\views\\usereffectivepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.application\\authentication\\commands\\teachercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E032E1-C661-49B7-9A43-592E76F1F7CC}|Edutrack.Application\\EduTrack.Application.csproj|solutionrelative:edutrack.application\\authentication\\commands\\teachercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9F88722-C11A-45A0-BE0F-F1CE1198702C}|Edutrack.Infrastructure\\EduTrack.Infrastructure.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.infrastructure\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F88722-C11A-45A0-BE0F-F1CE1198702C}|Edutrack.Infrastructure\\EduTrack.Infrastructure.csproj|solutionrelative:edutrack.infrastructure\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|solutionrelative:edutrack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7225CC-7D5D-48F0-8BB0-D231536DF720}|Edutrack.API\\EduTrack.API.csproj|solutionrelative:edutrack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.domain\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|solutionrelative:edutrack.domain\\interfaces\\ipermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|c:\\personal\\project\\edutrack\\project\\edutrack.services\\edutrack.domain\\entities\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0EACBE-76A7-497A-AE27-37F0826EEE04}|Edutrack.Domain\\EduTrack.Domain.csproj|solutionrelative:edutrack.domain\\entities\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,142 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Edutrack.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Edutrack.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAuAAAAAAAAAA==",
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "Edutrack.Application\\Authentication\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADgvx0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:09:34.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\Employees.cs",
-              "RelativeDocumentMoniker": "Edutrack.Domain\\Entities\\Employees.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\Employees.cs",
-              "RelativeToolTip": "Edutrack.Domain\\Entities\\Employees.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T21:42:31.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\AuthResponseDto.cs",
-              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Dtos\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\AuthResponseDto.cs",
-              "RelativeToolTip": "Edutrack.Application\\Authentication\\Dtos\\AuthResponseDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T18:00:51.602Z",
+              "WhenOpened": "2025-11-26T23:40:33.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Handlers\\LoginUserHandler.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\LoginUserHandler.cs",
-              "RelativeToolTip": "Edutrack.Application\\Authentication\\Handlers\\LoginUserHandler.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAnwEUAAAAOAAAAAAAAAA==",
+              "Title": "ListAvailableEmployeesHandler.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\ListAvailableEmployeesHandler.cs",
+              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Handlers\\ListAvailableEmployeesHandler.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\ListAvailableEmployeesHandler.cs",
+              "RelativeToolTip": "Edutrack.Application\\Authentication\\Handlers\\ListAvailableEmployeesHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:19:08.408Z",
+              "WhenOpened": "2025-11-26T23:30:06.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Edutrack.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Edutrack.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:19:08.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Program.cs",
-              "RelativeDocumentMoniker": "Edutrack.API\\Program.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Program.cs",
-              "RelativeToolTip": "Edutrack.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:36:58.027Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PermissionService.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Infrastructure\\Services\\PermissionService.cs",
-              "RelativeDocumentMoniker": "Edutrack.Infrastructure\\Services\\PermissionService.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Infrastructure\\Services\\PermissionService.cs",
-              "RelativeToolTip": "Edutrack.Infrastructure\\Services\\PermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\Position.cs",
+              "RelativeDocumentMoniker": "Edutrack.Domain\\Entities\\Position.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Entities\\Position.cs",
+              "RelativeToolTip": "Edutrack.Domain\\Entities\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:36:13.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPermissionService.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Interfaces\\IPermissionService.cs",
-              "RelativeDocumentMoniker": "Edutrack.Domain\\Interfaces\\IPermissionService.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Interfaces\\IPermissionService.cs",
-              "RelativeToolTip": "Edutrack.Domain\\Interfaces\\IPermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:33:52.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EdutrackDBContext.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\EduTrack.Persistence\\EdutrackDBContext.cs",
-              "RelativeDocumentMoniker": "EduTrack.Persistence\\EdutrackDBContext.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\EduTrack.Persistence\\EdutrackDBContext.cs",
-              "RelativeToolTip": "EduTrack.Persistence\\EdutrackDBContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:31:27.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\EduTrack.Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "EduTrack.Persistence\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\EduTrack.Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "EduTrack.Persistence\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:24:28.204Z"
+              "WhenOpened": "2025-11-26T18:22:31.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserEffectivePermission.cs",
-              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Models\\Views\\UserEffectivePermission.cs",
-              "RelativeDocumentMoniker": "Edutrack.Domain\\Models\\Views\\UserEffectivePermission.cs",
-              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Domain\\Models\\Views\\UserEffectivePermission.cs",
-              "RelativeToolTip": "Edutrack.Domain\\Models\\Views\\UserEffectivePermission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Title": "TeacherCommands.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Commands\\TeacherCommands.cs",
+              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Commands\\TeacherCommands.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Commands\\TeacherCommands.cs",
+              "RelativeToolTip": "Edutrack.Application\\Authentication\\Commands\\TeacherCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T17:27:53.997Z"
+              "WhenOpened": "2025-11-25T22:33:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherHandler.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\TeacherHandler.cs",
+              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Handlers\\TeacherHandler.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Handlers\\TeacherHandler.cs",
+              "RelativeToolTip": "Edutrack.Application\\Authentication\\Handlers\\TeacherHandler.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:31:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherDtos.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\TeacherDtos.cs",
+              "RelativeDocumentMoniker": "Edutrack.Application\\Authentication\\Dtos\\TeacherDtos.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.Application\\Authentication\\Dtos\\TeacherDtos.cs",
+              "RelativeToolTip": "Edutrack.Application\\Authentication\\Dtos\\TeacherDtos.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA6wCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:31:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Edutrack.API\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Edutrack.API\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:19:20.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Edutrack.API\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Personal\\Project\\EduTrack\\Project\\Edutrack.Services\\Edutrack.API\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Edutrack.API\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:07:40.634Z",
+              "EditorCaption": ""
             }
           ]
         }

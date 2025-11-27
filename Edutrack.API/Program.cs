@@ -1,4 +1,5 @@
-﻿using EduTrack.Domain.Interfaces;
+﻿using EduTrack.Application.Authentication.Commands;
+using EduTrack.Domain.Interfaces;
 using EduTrack.Infrastructure.Services;
 using EduTrack.Persistence;
 using FluentValidation;

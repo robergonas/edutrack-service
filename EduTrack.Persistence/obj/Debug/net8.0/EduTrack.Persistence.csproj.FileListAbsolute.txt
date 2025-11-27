@@ -9,6 +9,7 @@ C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.AssemblyInfoInputs.cache
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.AssemblyInfo.cs
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.sourcelink.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.7721BB5A.Up2Date
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\EduTrack.Persistence.dll
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\EduTrack.Persistence\obj\Debug\net8.0\refint\EduTrack.Persistence.dll

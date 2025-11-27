@@ -1,3 +1,11 @@
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.csproj.AssemblyReference.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.AssemblyInfoInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.AssemblyInfo.cs
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.sourcelink.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\appsettings.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\EduTrack.API.staticwebassets.endpoints.json
@@ -165,14 +173,6 @@ C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\ne
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\EduTrack.Domain.pdb
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\EduTrack.Infrastructure.pdb
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\bin\Debug\net8.0\EduTrack.Persistence.pdb
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.csproj.AssemblyReference.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.AssemblyInfoInputs.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.AssemblyInfo.cs
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.csproj.CoreCompileInputs.cache
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\EduTrack.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Personal\Project\EduTrack\Project\Edutrack.Services\Edutrack.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
