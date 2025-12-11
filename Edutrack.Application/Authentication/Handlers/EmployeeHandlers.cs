@@ -21,8 +21,8 @@ public class CreateEmployeeHandler : IRequestHandler<CreateEmployeeCommand, Empl
         var entity = new Employees
         {
             FullName = request.Dto.FullName,
-            DepartmentID = request.Dto.DepartmentId,
-            PositionID = request.Dto.PositionId,
+            DepartmentId = request.Dto.DepartmentId,
+            PositionId = request.Dto.PositionId,
             HireDate = request.Dto.HireDate,
             IsActive = request.Dto.IsActive,
             CreatedAt = DateTime.Now,
@@ -32,16 +32,16 @@ public class CreateEmployeeHandler : IRequestHandler<CreateEmployeeCommand, Empl
         _context.Employees.Add(entity);
         await _context.SaveChangesAsync(ct);
 
-        var dep = await _context.Departments.FirstAsync(d => d.DepartmentId == entity.DepartmentID, ct);
-        var pos = await _context.Positions.FirstAsync(p => p.PositionId == entity.PositionID, ct);
+        var dep = await _context.Departments.FirstAsync(d => d.DepartmentId == entity.DepartmentId, ct);
+        var pos = await _context.Positions.FirstAsync(p => p.PositionId == entity.PositionId, ct);
 
         return new EmployeeResponseDto
         {
             EmployeeId = entity.EmployeeId,
             FullName = entity.FullName,
-            DepartmentId = entity.DepartmentID,
+            DepartmentId = entity.DepartmentId,
             DepartmentName = dep.DepartmentName,
-            PositionId = entity.PositionID,
+            PositionId = entity.PositionId,
             PositionName = pos.PositionName,
             HireDate = entity.HireDate,
             IsActive = entity.IsActive,
@@ -67,14 +67,14 @@ public class UpdateEmployeeHandler : IRequestHandler<UpdateEmployeeCommand, Empl
         {
             var depExists = await _context.Departments.AnyAsync(d => d.DepartmentId == request.Dto.DepartmentId.Value, ct);
             if (!depExists) throw new Exception("Departamento inválido.");
-            e.DepartmentID = request.Dto.DepartmentId.Value;
+            e.DepartmentId = request.Dto.DepartmentId.Value;
         }
 
         if (request.Dto.PositionId.HasValue)
         {
             var posExists = await _context.Positions.AnyAsync(p => p.PositionId == request.Dto.PositionId.Value, ct);
             if (!posExists) throw new Exception("Cargo/posición inválido.");
-            e.PositionID = request.Dto.PositionId.Value;
+            e.PositionId = request.Dto.PositionId.Value;
         }
 
         if (request.Dto.HireDate.HasValue) e.HireDate = request.Dto.HireDate.Value;
@@ -86,16 +86,16 @@ public class UpdateEmployeeHandler : IRequestHandler<UpdateEmployeeCommand, Empl
         _context.Employees.Update(e);
         await _context.SaveChangesAsync(ct);
 
-        var dep = await _context.Departments.FirstAsync(d => d.DepartmentId == e.DepartmentID, ct);
-        var pos = await _context.Positions.FirstAsync(p => p.PositionId == e.PositionID, ct);
+        var dep = await _context.Departments.FirstAsync(d => d.DepartmentId == e.DepartmentId, ct);
+        var pos = await _context.Positions.FirstAsync(p => p.PositionId == e.PositionId, ct);
 
         return new EmployeeResponseDto
         {
             EmployeeId = e.EmployeeId,
             FullName = e.FullName,
-            DepartmentId = e.DepartmentID,
+            DepartmentId = e.DepartmentId,
             DepartmentName = dep.DepartmentName,
-            PositionId = e.PositionID,
+            PositionId = e.PositionId,
             PositionName = pos.PositionName,
             HireDate = e.HireDate,
             IsActive = e.IsActive,
@@ -143,9 +143,9 @@ public class GetEmployeeByIdHandler : IRequestHandler<GetEmployeeByIdQuery, Empl
         {
             EmployeeId = e.EmployeeId,
             FullName = e.FullName,
-            DepartmentId = e.DepartmentID,
+            DepartmentId = e.DepartmentId,
             DepartmentName = e.Department.DepartmentName,
-            PositionId = e.PositionID,
+            PositionId = e.PositionId,
             PositionName = e.Position.PositionName,
             HireDate = e.HireDate,
             IsActive = e.IsActive,
@@ -168,17 +168,17 @@ public class ListEmployeesHandler : IRequestHandler<ListEmployeesQuery, IReadOnl
             .AsQueryable();
 
         if (request.IsActive.HasValue) q = q.Where(e => e.IsActive == request.IsActive.Value);
-        if (request.DepartmentId.HasValue) q = q.Where(e => e.DepartmentID == request.DepartmentId.Value);
-        if (request.PositionId.HasValue) q = q.Where(e => e.PositionID == request.PositionId.Value);
+        if (request.DepartmentId.HasValue) q = q.Where(e => e.DepartmentId == request.DepartmentId.Value);
+        if (request.PositionId.HasValue) q = q.Where(e => e.PositionId == request.PositionId.Value);
 
         return await q
             .Select(e => new EmployeeResponseDto
             {
                 EmployeeId = e.EmployeeId,
                 FullName = e.FullName,
-                DepartmentId = e.DepartmentID,
+                DepartmentId = e.DepartmentId,
                 DepartmentName = e.Department.DepartmentName,
-                PositionId = e.PositionID,
+                PositionId = e.PositionId,
                 PositionName = e.Position.PositionName,
                 HireDate = e.HireDate,
                 IsActive = e.IsActive,
@@ -199,15 +199,15 @@ public class ListEmployeeSelectHandler : IRequestHandler<ListEmployeeSelectQuery
     {
         var q = _context.Employees.AsQueryable();
         if (request.IsActive.HasValue) q = q.Where(e => e.IsActive == request.IsActive.Value);
-        if (request.DepartmentId.HasValue) q = q.Where(e => e.DepartmentID == request.DepartmentId.Value);
+        if (request.DepartmentId.HasValue) q = q.Where(e => e.DepartmentId == request.DepartmentId.Value);
 
         return await q
             .Select(e => new EmployeeSelectDto
             {
                 EmployeeId = e.EmployeeId,
                 FullName = e.FullName,
-                DepartmentId = e.DepartmentID,
-                PositionId = e.PositionID
+                DepartmentId = e.DepartmentId,
+                PositionId = e.PositionId
             })
             .OrderBy(e => e.FullName)
             .ToListAsync(ct);

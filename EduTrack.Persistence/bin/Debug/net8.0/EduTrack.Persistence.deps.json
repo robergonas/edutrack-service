@@ -1036,6 +1036,9 @@
         }
       },
       "EduTrack.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.10"
+        },
         "runtime": {
           "EduTrack.Domain.dll": {
             "assemblyVersion": "1.0.0.0",

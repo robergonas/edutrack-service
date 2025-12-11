@@ -398,6 +398,22 @@
   },
   {
     "ContainingType": "TeachersController",
+    "Method": "ExportPdf",
+    "RelativePath": "api/teachers/export_pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EduTrack.Application.Authentication.Dtos.ExportTeachersPdfDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TeachersController",
     "Method": "List",
     "RelativePath": "api/teachers/List",
     "HttpMethod": "GET",

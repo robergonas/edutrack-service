@@ -1,5 +1,6 @@
 ﻿using EduTrack.Application.Authentication.Commands;
 using EduTrack.Application.Authentication.Dtos;
+using EduTrack.Application.Authentication.Queries;
 using MediatR;
 
 using Microsoft.AspNetCore.Mvc;
@@ -17,14 +18,17 @@ public class TeachersController : ControllerBase
     [HttpPost("create")]
     public async Task<IActionResult> Create([FromBody] CreateTeacherDto dto)
     {
-        var command = new CreateTeacherCommand
+        var result = await _mediator.Send(new CreateTeacherCommand
         {
             Dto = dto,
             CurrentUserName = User?.Identity?.Name ?? "system"
-        };
+        });
 
-        var created = await _mediator.Send(command);
-        return Ok(created);
+        return Ok(new
+        {
+            success = true,
+            data = result
+        });
     }
 
     [HttpPut("update")]
@@ -94,4 +98,12 @@ public class TeachersController : ControllerBase
         });
     }
 
+    [HttpPost("export_pdf")]
+    public async Task<IActionResult> ExportPdf([FromBody] ExportTeachersPdfDto dto, CancellationToken ct)
+    {
+        var result = await _mediator.Send(new ExportTeachersPdfQuery { Dto = dto }, ct);
+
+        var fileName = $"reporte-profesores_{DateTime.Now:yyyyMMdd_HHmm}.pdf";
+        return File(result, "application/pdf", fileName);
+    }
 }

@@ -26,9 +26,10 @@ namespace EduTrack.Application.Authentication.Commands
     {
         public int? DepartmentId { get; set; }
         public bool? Status { get; set; }
-        public int Page { get; set; } = 1;        // número de página
-        public int PageSize { get; set; } = 15;   // tamaño de página (variable)
+        public int TotalCount { get; set; }
+        public int Page { get; set; } = 1;
+        public int PageSize { get; set; } = 15;
+
         public string EmployeeFullName { get; set; }
     }
-
 }

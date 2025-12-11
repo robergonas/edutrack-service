@@ -20,8 +20,8 @@ public class ListAvailableEmployeesHandler
             {
                 EmployeeId = e.EmployeeId,
                 FullName = e.FullName,
-                DepartmentId = e.DepartmentID,
-                PositionId = e.PositionID,
+                DepartmentId = e.DepartmentId,
+                PositionId = e.PositionId,
                 IsActive = e.IsActive,
                 DepartmentName = e.Department.DepartmentName,
                 PositionName = e.Position.PositionName 
